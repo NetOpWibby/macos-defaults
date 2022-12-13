@@ -23,9 +23,9 @@
     "jimp": "0.16.2",
     "mkdirp": "1.0.4",
     "node-pngquant-native": "2.2.0",
-    "prettier": "2.7.1",
+    "prettier": "2.8.1",
     "prompt-confirm": "2.0.4",
     "robotjs": "0.6.0",
-    "sharp": "0.31.1"
+    "sharp": "0.31.2"
   }
 }
